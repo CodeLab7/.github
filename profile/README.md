@@ -5,8 +5,12 @@ We are bunch of developers working on various technology like <a href="https://l
 
 We are 12 year old, and we set very high standards to provide a continues and consistent deliveries.  Feel free to contact us on <a href="https://codelab7.com">our website</a>.
 
+
+---
+
+# Resources
 ### Useful Resources (For Client)
-Will be updated soon!
+_Will be updated soon!_
 
 ### Useful Resources (For Developers)
 1. <a href="https://github.com/CodeLab7/.github/blob/main/templates/laravel/email-layout.blade.php">**Email Strucutre for Laravel**</a> : Standard Email Template to use for Sending email from Laravel.
